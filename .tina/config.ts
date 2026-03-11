@@ -8,8 +8,8 @@ const branch =
 
 export default defineConfig({
   branch,
-  clientId: "ad3dd020-15e1-4cab-8913-6148dbc5a406", // Get this from tina.io
-  token: "3f393f890c7382ad9f951770bfbfa5c89afd24e1", // Get this from tina.io
+  clientId: "c70be351-9c83-44e0-99aa-775034c81512", // Get this from tina.io
+  token: "3093e86174f51af778e484fe9f09dcb3ece921e0", // Get this from tina.io
   build: {
     outputFolder: "admin",
     publicFolder: "public",
