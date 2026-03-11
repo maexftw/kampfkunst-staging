@@ -5,7 +5,7 @@ const branch = "main";
 export default defineConfig({
   branch,
   clientId: "c70be351-9c83-44e0-99aa-775034c81512", // Get this from tina.io
-  token: "3093e86174f51af778e484fe9f09dcb3ece921e0", // Get this from tina.io
+  token: "5e46e819a677e89cdbe950c0e1fc6fe7b4562ef8", // Get this from tina.io
   build: {
     outputFolder: "admin",
     publicFolder: "public",
