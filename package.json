@@ -13,6 +13,7 @@
   "license": "ISC",
   "dependencies": {
     "@tinacms/cli": "^2.1.9",
+    "@tinacms/datalayer": "^2.0.12",
     "astro": "^6.0.2",
     "tinacms": "^3.6.1"
   }
